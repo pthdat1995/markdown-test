@@ -1,7 +1,5 @@
 # :stuck_out_tongue_winking_eye: _Phan Thanh Dat_ :stuck_out_tongue_winking_eye:
 
-! [Hi](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUhZPp2fvgAhWOE4gKHfBpBpIQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDesktop_computer&psig=AOvVaw34YzUsN7sI8MxC1OQWEUPQ&ust=1552449126586623)
-
 
 # 1. Link
 [Click....!!!!](http://google.com)
