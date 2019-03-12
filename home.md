@@ -1,6 +1,5 @@
-# _Phan Thanh Dat_ 
-:laughing::laughing::laughing:
-:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+# :stuck_out_tongue_winking_eye:_Phan Thanh Dat_ :stuck_out_tongue_winking_eye:
+
 ======
 ## 11-06
 ----------------------------------
