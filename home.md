@@ -14,7 +14,7 @@
   * 2
     * 2.1
     * 2.2
-#  3. Highlighting
+# 3. Highlighting
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -22,11 +22,11 @@ function fancyAlert(arg) {
   }
 }
 ```
- # 4. Table
+# 4. Table
  Tieu de 1|Tieu de 2| Tieu de 3
  ---------|---------|----------
- Cot 1|Cot 2|Cot 3
-  Cot 4|Cot 5|Cot 6
-   Cot 7|Cot 8|Cot 9
+Cot 1|Cot 2|Cot 3
+Cot 4|Cot 5|Cot 6
+Cot 7|Cot 8|Cot 9
 
    
