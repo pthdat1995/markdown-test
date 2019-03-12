@@ -1,7 +1,6 @@
 # :stuck_out_tongue_winking_eye:_Phan Thanh Dat_ :stuck_out_tongue_winking_eye:
 
-======
-## 11-06
+
 ----------------------------------
 
 
