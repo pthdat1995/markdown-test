@@ -1,4 +1,4 @@
-# :stuck_out_tongue_winking_eye:_Phan Thanh Dat_ :stuck_out_tongue_winking_eye:
+# :stuck_out_tongue_winking_eye: _Phan Thanh Dat_ :stuck_out_tongue_winking_eye:
 
 
 ----------------------------------
@@ -28,5 +28,5 @@ function fancyAlert(arg) {
  Cot 1|Cot 2|Cot 3
   Cot 4|Cot 5|Cot 6
    Cot 7|Cot 8|Cot 9
- # 5.
+
    
